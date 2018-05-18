@@ -265,7 +265,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:31px;
+  width:60px;
   height:15px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -284,9 +284,9 @@
 #u21 {
   border-width:0px;
   position:absolute;
-  left:23px;
+  left:9px;
   top:335px;
-  width:31px;
+  width:60px;
   height:15px;
   font-family:'Bernard MT Condensed Bold', 'Bernard MT Condensed', 'Bernard MT';
   font-weight:700;
@@ -300,7 +300,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:31px;
+  width:60px;
   white-space:nowrap;
 }
 #u22_img {
@@ -333,7 +333,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:31px;
+  width:57px;
   height:15px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -352,9 +352,9 @@
 #u23 {
   border-width:0px;
   position:absolute;
-  left:118px;
+  left:107px;
   top:335px;
-  width:31px;
+  width:57px;
   height:15px;
   font-family:'Bernard MT Condensed Bold', 'Bernard MT Condensed', 'Bernard MT';
   font-weight:700;
@@ -368,7 +368,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:31px;
+  width:57px;
   white-space:nowrap;
 }
 #u24_img {
@@ -401,7 +401,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:31px;
+  width:27px;
   height:15px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -420,9 +420,9 @@
 #u25 {
   border-width:0px;
   position:absolute;
-  left:214px;
+  left:217px;
   top:335px;
-  width:31px;
+  width:27px;
   height:15px;
   font-family:'Bernard MT Condensed Bold', 'Bernard MT Condensed', 'Bernard MT';
   font-weight:700;
@@ -436,7 +436,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:31px;
+  width:27px;
   white-space:nowrap;
 }
 #u26_img {
@@ -469,7 +469,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:31px;
+  width:32px;
   height:15px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -490,7 +490,7 @@
   position:absolute;
   left:311px;
   top:335px;
-  width:31px;
+  width:32px;
   height:15px;
   font-family:'Bernard MT Condensed Bold', 'Bernard MT Condensed', 'Bernard MT';
   font-weight:700;
@@ -504,7 +504,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:31px;
+  width:32px;
   white-space:nowrap;
 }
 #u28_div {
@@ -1421,7 +1421,7 @@
   top:3px;
   width:30px;
   height:28px;
-  color:#FD6301;
+  color:#999999;
 }
 #u55_text {
   border-width:0px;
@@ -1450,7 +1450,7 @@
   font-weight:400;
   font-style:normal;
   font-size:10px;
-  color:#FD6301;
+  color:#999999;
 }
 #u56 {
   border-width:0px;
@@ -1463,7 +1463,7 @@
   font-weight:400;
   font-style:normal;
   font-size:10px;
-  color:#FD6301;
+  color:#999999;
 }
 #u56_text {
   border-width:0px;
@@ -1496,7 +1496,7 @@
 #u57 {
   border-width:0px;
   position:absolute;
-  left:217px;
+  left:220px;
   top:32px;
   width:11px;
   height:12px;
@@ -1562,7 +1562,7 @@
 #u59 {
   border-width:0px;
   position:absolute;
-  left:298px;
+  left:301px;
   top:32px;
   width:11px;
   height:12px;
@@ -1623,7 +1623,7 @@
   font-weight:400;
   font-style:normal;
   font-size:10px;
-  color:#999999;
+  color:#FD6301;
   text-align:center;
 }
 #u61 {
@@ -1637,7 +1637,7 @@
   font-weight:400;
   font-style:normal;
   font-size:10px;
-  color:#999999;
+  color:#FD6301;
   text-align:center;
 }
 #u61_text {
