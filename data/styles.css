@@ -70,6 +70,13 @@
 ._文本 {
   text-align:left;
 }
+._文本链接 {
+  color:#0000FF;
+}
+._鼠标悬停文本链接 {
+}
+._鼠标按下文本链接 {
+}
 .line {
 }
 .text_field {
@@ -79,4 +86,7 @@
 ._流程形状 {
 }
 .icon {
+}
+.primary_button {
+  color:#FFFFFF;
 }
